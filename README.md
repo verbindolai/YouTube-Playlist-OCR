@@ -7,6 +7,6 @@ The IDs of all videos that have not yet been processed and their length are quer
 
 ### Use
 - Install dependencies with `npm install`
-- YouTube-API Key needs to be stored in an enviromnent variable called `YOUTUBE_API_KEY`
+- YouTube-API Key needs to be stored in an enviromnent variable called `YT_API_KEY`
 - Adjust filepath, filename, sreenshot-interval, language, text frame position/size etc. in constants at the top of `parse.js` 
 - Run with `npm run start`
